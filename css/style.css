@@ -1,0 +1,234 @@
+.trafalgar_img {
+  border-radius: 50%;
+  width: 41px;
+  height: 41px;
+  background-color: #458ff6;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 6px;
+  font-weight: bold;
+  color: white;
+  font-size: 26px;
+  display: inline-block;
+  margin-right: 12px;
+}
+
+#first_page {
+  width: 1487px;
+  height: 719px;
+  margin-top: 60px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+.trafalgar_heading {
+  display: inline-block;
+  margin-right: 550px;
+  margin-left: 100px;
+}
+
+* {
+  font-family: 'Mulish';
+}
+
+a {
+  text-decoration: none;
+}
+
+.menu {
+  display: inline-block;
+  width: 562px;
+  height: 23px;
+  font-size: 18px;
+}
+
+.menu_fnc {
+  color: rgba(0, 0, 0, 0.5);
+  margin-left: 40px;
+}
+
+.element_img {
+  margin-left: -57px;
+  margin-top: 189px;
+}
+
+.consult_btn{
+    width: 200px;
+    height: 57px;
+    border-radius: 55px;
+    background-color: #458FF6;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-style: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.consult_btn:hover{
+  color: #458FF6;
+  background-color: #fff;
+}
+
+
+.healthcare{
+  margin-top: 178px;
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 130px;
+  margin-left: 100px;
+}
+
+.illustration{
+  display: inline-block;
+  margin-top: 84px;
+}
+
+.second_page{
+  margin-top: 730px;
+  text-align: center;
+  background-image: url(./Vector\ \(1\).png);
+  background-repeat: no-repeat;
+  background-position: bottom; 
+  background-position: left;
+}
+
+.service_1_text{
+  color: #7D7987;
+  width: 952px;
+  margin: auto;
+  margin-top: 26px;
+}
+
+.menu_of_service{
+  width: 1123px;
+  height: 745px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.service_btn{
+  text-align: start;
+  padding-left: 42px;
+  padding-top: 54px;
+  padding-bottom: 46.59px;
+  padding-right: 42px;
+  width: 350px;
+  height: 354px;
+  border-radius: 20px;
+  border-style: none;
+  background-color: #fff;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  margin-right: 21px;
+  margin-bottom: 37px;
+}
+
+.btn_heading{
+  font-size: 24px;
+}
+
+.btn_text{
+  color: #7D7987;
+  width: 230px;
+  font-size: 16px;
+}
+
+.service_btn:hover{
+  background-color: #9bd1fc;
+  color: #fff;
+}
+
+.btn_learn{
+  margin-top: 80px;
+  width: 200px;
+  height: 60px;
+  border-radius: 55px;
+  background-color: #fff;
+  color: #458FF6;
+  border: 1.4px solid #458FF6;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 220px;
+}
+
+.btn_learn:hover{
+  background-color: #458FF6;
+  color: white;
+}
+
+
+.third_page{
+  width: 1273px;
+  height: 477px;
+  margin: auto;
+}
+
+.third_page_img{
+  display: inline-block;
+  margin-right: 160px;
+}
+
+.third_page_left{
+  display: inline-block;
+  line-height: 30px;
+}
+
+.btn_learn2{
+  margin-top: 32px;
+  width: 200px;
+  height: 60px;
+  border-radius: 55px;
+  background-color: #fff;
+  color: #458FF6;
+  border: 1.4px solid #458FF6;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn_learn2:hover{
+  background-color: #458FF6;
+  color: white;
+}
+
+.fourth_page{
+  margin: auto;
+  width: 1300px;
+  height: 375px;
+  margin-top: 265px;
+  text-align: center;
+}
+
+.btn_download_img{
+  margin-left: 14.79px; 
+  vertical-align: middle;
+}
+
+.apps{
+  display: inline-block;
+  text-align: start;
+}
+
+.fifth_page{
+  background: linear-gradient(30deg,#3f86f0 30%,#67C3F3 100%);
+  border-radius: 24px;
+  width: 1120px;
+  height: 425px;
+  text-align: center;
+  margin: auto;
+  margin-top: 266px;
+}
+
+.customer{
+  display: inline-block;
+  margin-top: 90px;
+  line-height: 18px;
+  text-align: start;
+  margin-left: 160px;
+}
+
+.customer_text{
+  display: inline-block; 
+  text-align: start;
+  padding-left: 110px;
+  vertical-align: middle;
+  margin-top: -50px; 
+}
