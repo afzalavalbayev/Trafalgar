@@ -16,9 +16,7 @@
 #first_page {
   width: 1487px;
   height: 719px;
-  margin-top: 60px;
-  margin-left: 0px;
-  position: absolute;
+  margin: auto;
 }
 
 .trafalgar_heading {
@@ -81,10 +79,10 @@ a {
 .illustration{
   display: inline-block;
   margin-top: 84px;
+  
 }
 
 .second_page{
-  margin-top: 730px;
   text-align: center;
   background-image: url(./Vector\ \(1\).png);
   background-repeat: no-repeat;
